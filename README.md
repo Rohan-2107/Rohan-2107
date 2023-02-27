@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-2107&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-2107" /> </p>
 
-- 🌱 I’m currently learning **Android Development and machine Learning**
+- 🔭 I’m currently a Computer Science Engineering Student [Sunley (A music player App))](https://github.com/Rohan-2107/Sunley)
+
+- 🌱 I’m currently learning **Android Development**
 
 - 💬 Ask me about **Kotlin, Android and Web**
 
@@ -17,6 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohan-chowdhury-804449204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohan-chowdhury-804449204/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/rohan.chowdhury.21?igshid=ymmymta2m2y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/rohan.chowdhury.21?igshid=ymmymta2m2y=" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/rohanrkc289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rohanrkc289" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/rohanrkc289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rohanrkc289/" height="30" width="40" /></a>
@@ -31,9 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-2107&show_icons=true&locale=en" alt="rohan-2107" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-2107&" alt="rohan-2107" /></p>
-
-
-<!---
-Rohan-2107/Rohan-2107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
