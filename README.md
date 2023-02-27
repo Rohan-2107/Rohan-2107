@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-2107&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-2107" /> </p>
 
-- 🔭 I’m currently a Computer Science Engineering Student [Sunley (A music player App))](https://github.com/Rohan-2107/Sunley)
+- 🔭 I’m currently a Computer Science Engineering Student
 
 - 🌱 I’m currently learning **Android Development**
 
