@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
- - 👨‍💻 All of my projects are available at [Rohan-2107.github.io](Rohan-2107.github.io)
+- 👨‍💻 Link to my Portfolio [https://rohan-2107.github.io/](https://rohan-2107.github.io/)
 
 - 💬 Ask me about **Kotlin, Android and Web**
 
